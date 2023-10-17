@@ -36,7 +36,7 @@ get_24hformat_hour('9 PM')             | 21                     | 08
 get_24hformat_hour('10 AM')            | 10                     | 09
 get_24hformat_hour('11 AM')            | 11                     | 10
 get_24hformat_hour('10 PM')            | 22                     | 11
-get_24hformat_hour('11 PM')            | 23                     | 12
+get_24hformat_hour('11 PM')            | 23                     | 12 
 """
 #endregion debai
 
